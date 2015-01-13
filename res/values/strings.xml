@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kiva Loans US</string>
+    <string name="loading">Loading…</string>
+    <string name="name_tag"><![CDATA[<b>Name:" "</b>]]></string>
+    <string name="town_tag"><![CDATA[<b>Location:" "</b>]]></string>
+    <string name="date_tag"><![CDATA[<b>Posted Date:" "</b>]]></string>
+    <string name="amount_tag"><![CDATA[<b>Loan Amount:" "</b>]]></string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+</resources>
